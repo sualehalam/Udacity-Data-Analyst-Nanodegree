@@ -29,5 +29,5 @@ To complete this project you will need the following:
 
 ## Authors
 
-* **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam)
+* **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam) 
 
