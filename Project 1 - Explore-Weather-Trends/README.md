@@ -33,7 +33,7 @@ To complete this project you will need the following:
 
 ## License 
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)]
+![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)
 
 
 
