@@ -31,3 +31,9 @@ To complete this project you will need the following:
 
 * **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam) 
 
+## License 
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/Shilin0806/Analyze_A-B_Test_Results/blob/master/LICENSE)
+
+
+
