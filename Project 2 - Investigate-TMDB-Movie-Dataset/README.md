@@ -11,7 +11,7 @@ The primary goal of the project is to go through the general data analysis proce
 
 ### Database Schema:
 
-The movie dataset, which is originally from Kaggle, was cleaned and provided by Udacity. This data set contains information about 5,000 movies collected from The Movie Database (TMDb). Contains data such as `title, cast, director, runtime, budget, revenue, release year` etc. 
+The movie dataset, which is originally from Kaggle, was cleaned and provided by Udacity. This data set contains information about 5,000 movies collected from The Movie Database (TMDb) and the whole dataset duration covers from 1960 to 2015. Contains data such as `title, cast, director, runtime, budget, revenue, release year` etc. 
 - Certain columns, like `‘cast’` and `‘genres’`, contain multiple values separated by pipe (|) characters.
 - There are some odd characters in the `‘cast’` column. Nothing to care much of, I leave them as is.
 - The final two columns ending with `“_adj"` show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time.
@@ -39,3 +39,33 @@ pip install matplotlib
 pip install seaborn
 pip install statsmodel
 ```
+
+## Research Questions
+ 1. What were the Top 5 Genres throughout the years?
+ 2. How did the amount of movies produced changed over time?
+ 3. What is the Average Running Time Of All the Movies?
+ 4. How does the budget changes throughout the years?
+ 5. What should be an appropriate budget for a movie to succeed?
+ 
+## Conclusions
+
+- The first research question **"What were the Top 5 Genres throughout the years?"** has shown useful results, as the most popular genre turned out to be **Drama**. Perhaps it is because Adventure and Science Fiction movies are more expensive to produce so they are more rarely made than **Drama, Comedy, Thriller**. This data could be extremey useful for the 'Production Companies', because now they know which type of movies tend to be more popular among the masses and this could help them to drive more potential customers. 
+
+- The second research question **"How did the amount of movies produced changed over time?"** gave a well defined increasing trend for movies released. The graph also shows that a peak was attained in the year 2011 for the most movies released. Also according to Wikipedia, **Film critic Scout Tafoya considers 2011 as the best year for cinema.** 
+
+= The third research question **"What is the Average Running Time Of All the Movies?"** shows an accurate result of approximately 106 minutes. This is also evident from the histogram which is plotted against Running Time and Number Of Movies.
+
+- The fourth research question **"How does the budget changes throughout the years?"** shows quite useful results to the users because users can observe that throughout the years the budget has been increasing throughout the years and suddenly skyrockets in the year 2011, which is considered as the best year for cinema according to Wikipedia. In 2011, **Pirates of the Caribbean: On Stranger Tides** is the maximum budget movie till this day, with a maximum budget of 380 Million Dollars USD.
+
+- The fifth research question **"What should be an appropriate budget for a movie to succeed?"** has shown surprising results. Some useful deductions which are clearly evident from the graph are it's not necessary for a movie to become popular and succeed even if it has a higher budget and vice versa.
+
+
+
+
+## Authors
+
+* **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam) 
+
+## License 
+
+![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)
