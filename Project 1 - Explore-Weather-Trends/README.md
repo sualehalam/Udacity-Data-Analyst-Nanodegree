@@ -11,6 +11,12 @@ To complete this project you will need the following:
 * MS-Excel
 * SQL
 
+## Database Schema
+
+* city_data - This contains the average temperatures for each city by year (ºC).
+* global_data - This contains the average global temperatures by year (ºC).
+* city_list - This contains a list of cities and countries in the database.
+
 ### INSTRUCTIONS
 
 * Extract the data from Udacity's database using SQL.
@@ -20,12 +26,6 @@ To complete this project you will need the following:
 * Then creating a 2-D Line Chart to compare city's temperature with global temperature.
 * Finally drawing conclusions after observing the similarities and differences between the world averages and your city’s average.
 
-
-## Database Schema
-
-* city_data - This contains the average temperatures for each city by year (ºC).
-* global_data - This contains the average global temperatures by year (ºC).
-* city_list - This contains a list of cities and countries in the database.
 
 ## Authors
 
