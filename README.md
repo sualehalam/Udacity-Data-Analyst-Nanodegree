@@ -1,5 +1,5 @@
 # Udacity Data Analyst Nanodegree
-> In this Nanodegree Program we're using Python, SQL, and Inferential Statistics to uncover insights, communicate critical findings, and create data-driven solutions.
+ In this Nanodegree Program we're using Python, SQL, and Inferential Statistics to uncover insights, communicate critical findings, and create data-driven solutions.
 
 ![Data Analyst Cover](https://github.com/sualehalam/Udacity-Data-Analyst-Nanodegree/assets/45514336/d29925a8-d72f-431c-a505-4a23cfedad10)
 
