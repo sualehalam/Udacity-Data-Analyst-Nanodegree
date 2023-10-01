@@ -1,4 +1,5 @@
 # Udacity-Data-Analyst-Nanodegree
+![Data Analyst Cover](https://github.com/sualehalam/Udacity-Data-Analyst-Nanodegree/assets/45514336/d29925a8-d72f-431c-a505-4a23cfedad10)
 
 
 # Authors
