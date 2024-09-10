@@ -8,7 +8,7 @@
 * Basic Python
 * Basic descriptive statistics
 * Pandas
-* Data Analysis process
+* Data Analysis Process
 * Basic SQL
 * Inferential Statistics
 
