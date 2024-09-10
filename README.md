@@ -6,7 +6,7 @@
 
 ## Prerequisite Details
 * Basic Python
-* Basic descriptive statistics
+* Basic Descriptive Statistics
 * Pandas
 * Data Analysis Process
 * Basic SQL
