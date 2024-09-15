@@ -1,4 +1,4 @@
-# Ford Bike Dataset
+# FordGo Bike Dataset 
 
 ## Dataset
 #### https://s3.amazonaws.com/fordgobike-data/index.html
