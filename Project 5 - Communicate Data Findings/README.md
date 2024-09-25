@@ -1,7 +1,6 @@
 # FordGo Bike Dataset
 
 ## Dataset
-The dataset can be found here [https://s3.amazonaws.com/fordgobike-data/index.html].
 #### https://s3.amazonaws.com/fordgobike-data/index.html
 The FordGo Bike Dataset includes information about a bike-sharing system. Multiple data files will be joined together to get a full year’s coverage. The features included in the dataset : Start Time and Date , End Time and Date , Start Station ID , Start Station Name , Start Station Latitude , Start Station Longitude , Trip Duration (seconds) , End Station ID , End Station Name , End Station Latitude , End Station Longitude , Bike ID , Member Year of Birth , Member Year of Birth , Member Gender (Male, Female, Other) , User Type (Subscriber or Customer.
 
