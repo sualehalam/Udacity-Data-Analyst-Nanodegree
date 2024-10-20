@@ -4,6 +4,11 @@
 # Wrangle and Analyze Data
 
 
+## License 
+
+![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)
+
+
 ## Author
 
 * **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam)
