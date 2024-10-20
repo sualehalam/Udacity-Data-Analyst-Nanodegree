@@ -37,9 +37,9 @@ pip install json
 ```
 
 ## Research Questions
-1. What is the relationship between Favourite Count and Retweet Count?¶
+1. What is the relationship between Favourite Count and Retweet Count?
 2. What are the top 5 most common dog names?
-3. What is the Average Ratings given by *@WeRateDogs*
+3. What is the Average Ratings given by *@WeRateDogs*?
 
 ## Conclusions
 -  Using a scatterplot, we conclude that the **Retweets and Likes** are strongly and positively correlated with each other. This means as the Likes of a tweet increases the Retweets also increases simultaneously. Moreover, **Retweet Distribution vs Total Favorite Count** scatterplot shows a similar linear relationship between Retweets and Favorites Count (i.e Likes). It can be clearly observed seen that as the Favorites Count has increases, the retweets have also increased.
