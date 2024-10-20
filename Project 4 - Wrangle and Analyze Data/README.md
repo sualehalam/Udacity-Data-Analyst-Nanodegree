@@ -2,3 +2,8 @@
  
 
 # Wrangle and Analyze Data
+
+
+## Author
+
+* **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam)
