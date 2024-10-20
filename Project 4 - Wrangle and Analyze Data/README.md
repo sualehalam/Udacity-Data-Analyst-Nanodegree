@@ -13,7 +13,7 @@ WeRateDogs downloaded their Twitter archive and sent it to **Udacity** via email
 
 ![image](https://github.com/user-attachments/assets/f47a22e9-579e-4426-9d4a-463d649848d6)
 
-## Prerequisites
+### Prerequisites
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [Matplotlib](http://matplotlib.org/)
@@ -22,12 +22,31 @@ WeRateDogs downloaded their Twitter archive and sent it to **Udacity** via email
 - [Requests](https://pypi.org/project/requests/)
 - [JSON](https://docs.python.org/3/library/json.html)
 
+### Installing
+
+Run the following commands on command prompt (as administrator) .
+
+```
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install tweepy
+pip install requests
+pip install json
+```
+
 ## Research Questions
 1. What is the relationship between Favourite Count and Retweet Count?¶
 2. What are the top 5 most common dog names?
 3. What is the Average Ratings given by *@WeRateDogs*
 
+## Conclusions
+-  Using a scatterplot, we conclude that the **Retweets and Likes** are strongly and positively correlated with each other. This means as the Likes of a tweet increases the Retweets also increases simultaneously. Moreover, **Retweet Distribution vs Total Favorite Count** scatterplot shows a similar linear relationship between Retweets and Favorites Count (i.e Likes). It can be clearly observed seen that as the Favorites Count has increases, the retweets have also increased.
 
+- The visualizations of Bargraph and Piechart shows that the most common dog name in WeRateDogs tweets is Charlie, then it is followed by Tucker, Cooper, Penny, and Lucy. From the pie-chart, we also see that the name Charlie was used approximately **21.6%** of the time which is the greatest among all other dog names, while the following dogs Tucker, Cooper, Penny, and Lucy all have roughly the same percentages that is **19.6%**.
+
+- The third research question has yielded surprising findings regarding the average ratings provided by the *@WeRateDogs* user, which appear to be between **11** and **12**.
 
 ## Author
 
