@@ -11,7 +11,8 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 WeRateDogs downloaded their Twitter archive and sent it to **Udacity** via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
-![image](https://github.com/user-attachments/assets/f5e8b29a-baf8-41d3-986d-db0b6ee9b0c9)
+![image](https://github.com/user-attachments/assets/f47a22e9-579e-4426-9d4a-463d649848d6)
+
 
 
 ## Author
