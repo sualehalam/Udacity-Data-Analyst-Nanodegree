@@ -13,6 +13,14 @@ WeRateDogs downloaded their Twitter archive and sent it to **Udacity** via email
 
 ![image](https://github.com/user-attachments/assets/f47a22e9-579e-4426-9d4a-463d649848d6)
 
+## Prerequisites
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [Matplotlib](http://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/installing.html)
+- [Tweepy](https://www.tweepy.org/)
+- [Requests](https://pypi.org/project/requests/)
+- [JSON](https://docs.python.org/3/library/json.html)
 
 ## Research Questions
 1. What is the relationship between Favourite Count and Retweet Count?¶
