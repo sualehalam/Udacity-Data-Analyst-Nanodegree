@@ -14,6 +14,12 @@ WeRateDogs downloaded their Twitter archive and sent it to **Udacity** via email
 ![image](https://github.com/user-attachments/assets/f47a22e9-579e-4426-9d4a-463d649848d6)
 
 
+## Research Questions
+1. What is the relationship between Favourite Count and Retweet Count?¶
+2. What are the top 5 most common dog names?
+3. What is the Average Ratings given by *@WeRateDogs*
+
+
 
 ## Author
 
