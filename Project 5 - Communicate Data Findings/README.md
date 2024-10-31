@@ -4,7 +4,7 @@
 # FordGo Bike Dataset
 
 ## Project Overview
-This project is divided into *two* key phases.
+This project is divided into *two* key phases:
 
 In the first phase, I will perform an exploratory data analysis on the Ford GoBike System Dataset. Using Python’s data science and visualization libraries, I will explore the dataset’s variables to understand its structure, detect any anomalies, and uncover patterns and relationships. The analysis will progress systematically, beginning with simple univariate relationships and advancing to more complex multivariate relationships.
 
