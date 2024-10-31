@@ -6,13 +6,13 @@
 ## Project Overview
 This project is divided into two key phases:
 
-In the first phase, I will perform an exploratory data analysis on the Ford GoBike System Dataset. Using Python’s data science and visualization libraries, I will explore the dataset’s variables to understand its structure, detect any anomalies, and uncover patterns and relationships. The analysis will progress systematically, beginning with simple univariate relationships and advancing to more complex multivariate relationships.
+In the first phase, I will perform an exploratory data analysis on the *Ford GoBike System* Dataset. Using Python’s data science and visualization libraries, I will explore the dataset’s variables to understand its structure, detect any anomalies, and uncover patterns and relationships. The analysis will progress systematically, beginning with simple univariate relationships and advancing to more complex multivariate relationships.
 
 In the second phase, I will refine my key findings from the exploratory analysis and present them through a polished explanatory analysis. This will involve creating a slide deck that features refined, visually compelling graphics to clearly communicate the results. This phase will heavily rely upon the insights gained from the first part of the project.
 
 ## Dataset
 #### https://s3.amazonaws.com/fordgobike-data/index.html
-The FordGo Bike Dataset includes information about a bike-sharing system. Multiple data files will be joined together to get a full year’s coverage. The features included in the dataset : Start Time and Date , End Time and Date , Start Station ID , Start Station Name , Start Station Latitude , Start Station Longitude , Trip Duration (seconds) , End Station ID , End Station Name , End Station Latitude , End Station Longitude , Bike ID , Member Year of Birth , Member Year of Birth , Member Gender (Male, Female, Other) , User Type (Subscriber or Customer.
+The FordGo Bike Dataset includes information about a bike-sharing system. Multiple data files will be joined together to get a full year’s coverage. The features included in the dataset : Start Time and Date , End Time and Date , Start Station ID , Start Station Name , Start Station Latitude , Start Station Longitude , Trip Duration (seconds) , End Station ID , End Station Name , End Station Latitude , End Station Longitude , Bike ID , Member Year of Birth , Member Year of Birth , Member Gender (Male, Female, Other) , User Type (Subscriber or Customer).
 
 ## Summary
 FortGo Rent a bike system is an incredible idea which is healthy and environmental friendly. It could be used for both pleasure and business. There are basically two types of users in this system. Subscribers which are in majority **88.6%**, they use it for work and business, that is why their trip durations are **shorter (only 11 minutes)**, where as Customers are minority with **11.4%**, they use it for leisure and fun purposes that's why their trip durations are **much higher (27 minutes)**. Overall in these both types of users, **Females** have the highest trip duration in minutes, which is **31.280**.
