@@ -15,6 +15,9 @@ The data comes from the FBI's National Instant Criminal Background Check System.
 6. What is the total number of registered guns in each state over the years?
 7. Which state has most permit rechecks?
 
+## Conclusion
+
+
 ## Authors
 
 * **Sualeh Alam** - [SualehAlam](https://github.com/sualehalam) 
