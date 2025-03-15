@@ -17,6 +17,8 @@ The data comes from the FBI's National Instant Criminal Background Check System.
 
 ## Conclusion
 
+## Limitations
+The limitations of current study were quite obvious, as the gun data had few missing values, data was separated into two different files which could affect the process of analysis and make it harder. Conversely, the population estimation were only recorded for the year 2010-2016, which limits our Data Analysis and findings.
 
 ## Authors
 
