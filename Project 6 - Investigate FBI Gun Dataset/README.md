@@ -16,19 +16,19 @@ The data comes from the FBI's National Instant Criminal Background Check System.
 7. Which state has most permit rechecks?
 
 ## Conclusion
-The first research question "Which gun is commonly preferred by civilians?" has shown valuable answer, as we came to know that most civilians prefer to use a **handgun** which is an important insight for intelligence agencies.
+The first research question _Which gun is commonly preferred by civilians?_ has shown valuable answer, as we came to know that most civilians prefer to use a **handgun** which is an important insight for intelligence agencies.
 
-The second research question "In state of Puerto Rico which guns are mostly used?" showed an accurate result, as it showed that Puerto Ricans also prefer to use handguns, which was also evident from Research Question 1.
+The second research question _In state of Puerto Rico which guns are mostly used?_ showed an accurate result, as it showed that Puerto Ricans also prefer to use **handguns**, which was also evident from Research Question 1.
 
-The third research question Which state has issued most permits for guns? was accurately answered and showed that Kentucky is the state which issued most permits for guns with a total amount of 378384 permits.
+The third research question "_Which state has issued most permits for guns?_" was accurately answered and showed that **Kentucky** is the state which issued most permits for guns with a total amount of 378384 permits.
 
-The fourth research question What is the overall trend of all guns purchasing? showed not so surprising results since we already knew that handguns are the top most preferred guns all across the world. It also showed similar results in which handguns are purchased most frequently and multiple guns are purchased rarely by people.
+The fourth research question _What is the overall trend of all guns purchasing?_ showed not so surprising results since we already knew that handguns are the top most preferred guns all across the world. It also showed similar results in which **handguns** are purchased most frequently and **multiple guns** are purchased rarely by people.
 
-The fifth research question Trend of permits of total handguns? gave us surprising results and showed that the permits of handguns have been increasing rapidly over the years.
+The fifth research question _Trend of permits of total handguns?_ gave us surprising results and showed that the permits of **handguns** have been increasing rapidly over the years.
 
-The sixth research question What is the total number of registered guns in each state over the years? was answered through a swarmplot and a stripplot. The graphs clearly indicated that the state Kentucky has the maximum number of registered guns.
+The sixth research question _What is the total number of registered guns in each state over the years?_ was answered through a swarmplot and a stripplot. The graphs clearly indicated that the state **Kentucky** has the maximum number of registered guns. This insight re-affirmed our previous finding.
 
-The seventh research question Which state has most permit rechecks? shows quite useful results to the civilians of the state of Illinois because now the people who didn't have licensed permit will be more careful because there are frequent permit rechecks.
+The seventh research question _Which state has most permit rechecks?_ shows quite useful results to the civilians of the state of **Illinois** because now the people who didn't have license permit will be more careful because there are frequent permit rechecks.
 
 ## Limitations
 The limitations of current study were quite obvious, as the gun data had few missing values, data was separated into two different files which could affect the process of analysis and make it harder. Conversely, the population estimation were only recorded for the year 2010-2016, which limits our Data Analysis and findings.
