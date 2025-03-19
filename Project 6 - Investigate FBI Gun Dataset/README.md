@@ -30,7 +30,7 @@ The sixth research question _What is the total number of registered guns in each
 
 The seventh research question _Which state has most permit rechecks?_ shows quite useful results to the civilians of the state of **Illinois** because now the people who didn't have license permit will be more careful because there are frequent permit rechecks.
 
-## Limitations
+## Limitation
 The limitations of current study were quite obvious, as the gun data had few missing values, data was separated into two different files which could affect the process of analysis and make it harder. Conversely, the population estimation were only recorded for the year 2010-2016, which limits our Data Analysis and findings.
 
 ## Authors
