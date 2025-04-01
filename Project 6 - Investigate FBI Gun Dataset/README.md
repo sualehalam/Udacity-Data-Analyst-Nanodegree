@@ -6,6 +6,28 @@
 ## Introduction 
 The data comes from the FBI's National Instant Criminal Background Check System. The NICS is used by to determine whether a prospective buyer is eligible to buy firearms or explosives. Gun shops call into this system to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase. The data has been supplemented with state level data from census.gov.
 
+### Prerequisites
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [Matplotlib](http://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/installing.html)
+- [Tweepy](https://www.tweepy.org/)
+- [ExcelWriter](https://pypi.org/project/excel-writer/)
+
+### Installing
+
+Run the following commands on command prompt (as administrator) .
+
+```
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install tweepy
+pip install excel-writer
+```
+
+
 ## Research Questions for Analysis
 1. Which gun is commonly preferred by civilians?
 2. In state of Puerto Rico which guns are mostly used?
