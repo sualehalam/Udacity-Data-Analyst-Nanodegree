@@ -11,7 +11,6 @@ The data comes from the FBI's National Instant Criminal Background Check System.
 - [Pandas](http://pandas.pydata.org)
 - [Matplotlib](http://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/installing.html)
-- [Tweepy](https://www.tweepy.org/)
 - [ExcelWriter](https://pypi.org/project/excel-writer/)
 
 ### Installing
@@ -23,7 +22,6 @@ pip install numpy
 pip install pandas
 pip install matplotlib
 pip install seaborn
-pip install tweepy
 pip install excel-writer
 ```
 
