@@ -2,6 +2,10 @@
 
 
 # Investigate FBI Gun Dataset
+
+<img width="1090" height="818" alt="image" src="https://github.com/user-attachments/assets/f7bd9736-589b-403b-90b8-832f214c7b2d" />
+
+
 -----------
 ## Introduction 
 The data comes from the **FBI's National Instant Criminal Background Check System**. The NICS is used by to determine whether a prospective buyer is eligible to buy firearms or explosives. Gun shops call into this system to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase. The data has been supplemented with state level data from census.gov.
